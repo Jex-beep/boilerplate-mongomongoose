@@ -9,23 +9,18 @@
   "dependencies": {
     "body-parser": "^1.15.2",
     "dotenv": "^8.6.0",
-    "express": "^4.21.2",
+    "express": "^4.12.4",
     "mongodb": "^6.20.0",
     "mongoose": "^5.11.15"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/freeCodeCamp/boilerplate-mongomongoose.git"
+    "url": "https://github.com/freeCodeCamp/boilerplate-mongomongoose.git"
   },
   "keywords": [
     "node",
     "mongoose",
     "express"
   ],
-  "license": "MIT",
-  "author": "",
-  "bugs": {
-    "url": "https://github.com/freeCodeCamp/boilerplate-mongomongoose/issues"
-  },
-  "homepage": "https://github.com/freeCodeCamp/boilerplate-mongomongoose#readme"
+  "license": "MIT"
 }
